@@ -1,5 +1,8 @@
 # 💫 About Me:
-I'm currently working on a Java developer<br>Show my projects<br>Share my experience with developers<br>I'm currently learning everything have a relation to computer
+* I'm currently working on a Java developer
+* Show my projects
+* Share my experience with developers
+* I'm currently learning everything have a relation to computer
 
 
 ## 🌐 Socials:
